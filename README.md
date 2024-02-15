@@ -29,5 +29,8 @@ yarn enroll
 ```
 
 ## Result
-Enrollment Transaction:
+Enrollment Transaction: (Wrong wallet used)
 https://explorer.solana.com/tx/5g3eieR94nQNHsPM2YtuWJETp4pAXLc8EZMgFw1ZVzFq62YNqFpBKg4H8FV7AyBdqtU1VVz8TztJMAp9yMZmKLfm?cluster=devnet
+
+Enrollment Transaction (Re-ran: Corrected wallet)
+https://explorer.solana.com/tx/32YvVSnzZibW6wCuTpm4oi5ToYyTxMZWfsggCx567vRgw392xqYsFCd7JRXXbsCDvCGYqyxBHgeMsZrkJPDu4RLT?cluster=devnet
